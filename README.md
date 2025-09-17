@@ -32,6 +32,5 @@ Collaboration opportunities in **ML x Security**, **Data Science**, or **Cyber T
 
 ### 📫 How to reach me:
 - 📧 Email: *thombareketaki7@gmail.com*  
-- 📞 Phone: *+91-7038835477*
 
 🌱 *Always learning, building, and sharing knowledge!*
