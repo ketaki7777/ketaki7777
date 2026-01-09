@@ -28,7 +28,7 @@ Windows • Ubuntu
 
 
 ### 🤝 Looking for:
-Collaboration opportunities in **ML x Security**, **Data Science**, or **Cyber Threat Research**
+Collaboration opportunities in **ML**, **Data Science**,**Artificial Intelligence**
 
 ### 📫 How to reach me:
 - 📧 Email: *thombareketaki7@gmail.com*  
